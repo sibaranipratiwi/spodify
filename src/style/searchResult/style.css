@@ -1,0 +1,26 @@
+.Song {
+  display: grid;
+  grid-template-columns: 300px 10px;
+  grid-template-rows: 120px 20px;
+  float: left;
+  margin: 20px;
+  padding-top: 20px;
+  align-items: stretch;
+  justify-self: center;
+}
+
+.contentSong {
+  display: grid;
+  /* margin: 10px; */
+  align-items: center;
+}
+
+.imageSong {
+  float: left;
+  width: 17%;
+  border-image: stretch;
+  border-radius: 25px;
+  height: 100px;
+  width: 100px;
+  padding: 3px;
+}

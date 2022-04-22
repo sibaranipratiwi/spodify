@@ -1,3 +1,34 @@
+Final Project Generasi Gigih 2.0 Frontend Track
+Title: Spodify
+Description: This Application is a clone of Spotify wich build using React
+
+
+Features:
+Feature login: this feature only for authenticated user
+Feature search music: this feature only can accesible for users that login
+Feature create new playlist: this feature is for login user to create a list of their favorite songs
+Feature Select Song
+
+
+List Dependencies:
+React-router-dom
+React-redux
+Redux-toolkit
+React-hook-form
+Axios
+Typescript
+Mui-materials
+
+
+How To setting Up this Application
+Create an .env file in your local environtment that consist of:
+CLIENT_ID
+ex: REACT_APP_SPOTIFY_CLIENT_ID=----------------- (No need backtick here)
+BASE URL
+ex: REACT_APP_BASE_URL =http://localhost:3000/
+How to start app
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

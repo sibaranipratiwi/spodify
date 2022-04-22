@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background-color: #a5ecc1;
+  padding: 15px;
+  display:flex;
 }
 
 .App-logo {
@@ -35,4 +38,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.select{
+  background-color: yellow;
 }
