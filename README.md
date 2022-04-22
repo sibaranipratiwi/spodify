@@ -3,14 +3,14 @@ Title: Spodify
 Description: This Application is a clone of Spotify wich build using React
 
 
-Features:
+# Features:
 Feature login: this feature only for authenticated user
 Feature search music: this feature only can accesible for users that login
 Feature create new playlist: this feature is for login user to create a list of their favorite songs
 Feature Select Song
 
 
-List Dependencies:
+# List Dependencies:
 React-router-dom
 React-redux
 Redux-toolkit
@@ -20,7 +20,7 @@ Typescript
 Mui-materials
 
 
-How To setting Up this Application
+# How To setting Up this Application
 Create an .env file in your local environtment that consist of:
 CLIENT_ID
 ex: REACT_APP_SPOTIFY_CLIENT_ID=----------------- (No need backtick here)
